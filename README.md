@@ -15,11 +15,11 @@ The Bay Area Real Estate market has witnessed significant fluctuations inhousing
 
 ### Analysis Perfomed :
 
-• Web scraping Redfin website for data retrieval.
-• Cleaning and preprocessing raw data to ensure accuracy.
-• Conducting exploratory analysis and data visualization to identify trends.
-• Applying statistical and data analysis methods to address research questions.
-• Developing regression model to forecast future prices.
+• Web scraping Redfin website for data retrieval.<br>
+• Cleaning and preprocessing raw data to ensure accuracy.<br>
+• Conducting exploratory analysis and data visualization to identify trends.<br>
+• Applying statistical and data analysis methods to address research questions.<br>
+• Developing regression model to forecast future prices.<br>
 • Generating insights and recommendations tailored to stakeholders, including investors, homebuyers, and sellers in the Bay Area real estate market.
 
 ### Files Overview :
