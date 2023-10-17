@@ -1,5 +1,6 @@
 # Data-Analysis-Bay-Area-Real-Estate
-DATA ANALYSIS OF  THE BAY AREA REAL ESTATE MARKET
+
+Data Analysis of the Bay Area Real Estate Market
 
 ### Problem Statement : 
 
