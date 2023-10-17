@@ -23,9 +23,9 @@ The Bay Area Real Estate market has witnessed significant fluctuations inhousing
 6. Recommendations
 
 ### Files Overview :
+#### Referring Step wise files based on the analysis performed <br>
 
 #### Data Collection :
-##### Referring Step wise files based on the analysis performed <br>
 Under Code Folder, ```Webscraping_Redfin.ipynb``` : Contains the web scraping code used to extract data from Redfin. Once you run these file, you would get data in two steps.<br>
 Under Data Folder/Step1_Data Collected/  Folder, ```redfin_2023-09-29-20-15-24_sanjose.csv``` : Intial set of data collected for San Jose from webscraping.Similar steps for all the locations.<br>
 Under Data Folder/Step2_Data Collected/ Folder , ```redfin_san_jose_final.csv```: Final Dataset for San Jose. Concatenated data from Step1 in this already. Similar steps to be repeated for each bay area location.<br>
@@ -37,7 +37,7 @@ Under Data/Collated_Cleaned Files Folder, ```cleaned1_df.csv``` : This file cont
 
 #### Predictive Model : 
 Under Code Folder, ```Data_Modeling.ipynb``` : Encompasses the modeling code.<br>
-
+Under Data/Collated_Cleaned Files Folder, ```q6_file``` : This CSV is utilized in the modeling code.
 
 #### Presentation:
 Under Presenatation Folder, ```BAN 612_Group1_Final Project.pdf``` : Project Presentation to discuss the insights and recommendations.
