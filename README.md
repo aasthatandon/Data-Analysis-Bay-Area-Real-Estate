@@ -4,7 +4,7 @@ Data Analysis of the Bay Area Real Estate Market
 
 ### Problem Statement : 
 
-The Bay Area Real Estate market has witnessed significant fluctuations inhousing prices over the years, with recent events such as the pandemic and economic changes impacting the trends. This project aims to conduct a comprehensive data analysis of the real estate market in the Bay Area to uncover patterns, trends, and insights that can help stakeholders make informed decisions.
+The Bay Area Real Estate market has witnessed significant fluctuations in housing prices over the years, with recent events such as the pandemic and economic changes impacting the trends. This project aims to conduct a comprehensive data analysis of the real estate market in the Bay Area to uncover patterns, trends, and insights that can help stakeholders make informed decisions.
 
 ### Research Questions:
 
